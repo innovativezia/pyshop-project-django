@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7552fb5a-e79b-401f-9683-dd50a6af4e3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbMuiYEtMbOZXI8QN0QtQNizcj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Zia Bhai Tutorials\PyShop\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7552fb5a-e79b-401f-9683-dd50a6af4e3a" name="Default Changelist" comment="" />
+      <created>1581310564733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581310564733</updated>
+      <workItem from="1581310566624" duration="1340000" />
+      <workItem from="1581312123931" duration="1633000" />
+      <workItem from="1581313894542" duration="1743000" />
+      <workItem from="1581315784995" duration="1689000" />
+      <workItem from="1581317599235" duration="1722000" />
+      <workItem from="1581319408711" duration="1720000" />
+      <workItem from="1581394414775" duration="1716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581402277023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581402277023" />
+  </component>
+</project>
